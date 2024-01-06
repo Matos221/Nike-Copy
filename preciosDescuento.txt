@@ -1,0 +1,8 @@
+{
+        "price1": "Precio: $49.99",
+        "price2": "Precio: $75.00",
+        "price3": "Precio: $78.99",
+        "price4": "Precio: $158.00",
+        "price5": "Precio: $47.99",
+        "price6": "Precio: $46.88"
+}
